@@ -54,8 +54,8 @@ export const Main = () => {
         fgColor="#55ACEE"
         bgColor="#ffffff"
         size={256}
-        logoWidth={60}
-        logoHeight={60}
+        logoWidth={80}
+        logoHeight={80}
         logoOpacity={1}
         logoBackgroundColor="#ffffff"
         logoBackgroundTransparent={false} 
